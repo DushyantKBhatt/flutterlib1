@@ -1,8 +1,8 @@
 name: package_name
 description: A new Flutter package project.
-version: 1.0.2
-author:
-homepage: 
+version: 1.0.0
+author: Dushyant
+homepage: https://github.com/DushyantKBhatt/flutterlib1.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -16,6 +16,7 @@ dependencies:
   #     url: git://github.com/jlouage/flutter-carousel-pro.git
   #     ref: master
   #     version: 
+  #     path:
 
 dev_dependencies:
   flutter_test:
